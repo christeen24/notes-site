@@ -151,7 +151,7 @@ of new clauses is $n\times l$
     will always give a "quick" answer as to whether a formula is a
     tautology or not
 
--   However this is not the case, for the worst case resolution involves
+-   However, this is not the case. For the worst-case resolution involves
     an exponential number of applications
 
 # Satisfiability vs tautologies
